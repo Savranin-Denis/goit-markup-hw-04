@@ -423,6 +423,7 @@ a {
 
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-first-colomn {
@@ -444,8 +445,9 @@ a {
 }
 
 .social-desc {
-  color: #f4f4fd;
+  color: #ffffff;
   margin-bottom: 16px;
+  font-weight: 500;
 }
 
 .footer-social-icons {
